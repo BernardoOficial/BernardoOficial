@@ -1,7 +1,5 @@
 ### Oi, seja bem-vindo 👋
 
-### v
-
 Sou Bernardo Pereira, desenvolvedor Web e apaixonado por tecnologias como o Javascript. 
 
 - 🔭 Atualmente, estou trabalhando em projeto com HTML, CSS e Javascript
