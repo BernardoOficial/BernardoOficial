@@ -2,9 +2,7 @@
   Seja bem-vindo 👋  
 </h1>
 
-<br>
 ![ViewCount](https://views.whatilearened.today/views/github/BernardoOficial/views.svg)
-<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BernardoOficial&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
