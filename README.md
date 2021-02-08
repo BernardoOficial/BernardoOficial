@@ -20,3 +20,8 @@ Sou Bernardo Pereira, desenvolvedor Web e apaixonado por tecnologias como o Java
 - 💬 Pergunte-me sobre: Desenvolvimento Front-End e Tecnologia.
 - ⚡ Curioso sobre: tecnologia, ciência, política social.
 - 🎓 Discente na FIAP (Faculdade de informática e Administração Paulista) - 3º Semestre.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bernardo-pereira-oliveira/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-BernardoOficial-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-pereira-oliveira/"/></a>
+<a href="https://bernardo-portifolio.netlify.app/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Portfólio-563D7C?style=flat-square&logoColor=white&link=https://bernardo-portifolio.netlify.app/"/></a>
+</p>
