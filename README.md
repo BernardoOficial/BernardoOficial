@@ -16,6 +16,7 @@ Sou Bernardo Pereira, desenvolvedor Web e apaixonado por tecnologias como o Java
 
 - 🔭 Atualmente, estou trabalhando em projeto com HTML, CSS, Javascript e React.
 - 🌱 Atualmente, estou aprendendo Javascript simultaneamente com React.
-- 👯 Estou procurando por projetos que envolvam, principalmente, essas quatro linguagens.
-- 💬 Pergunte-me sobre: tecnologia, software e hardware.
+- 👯 Estou procurando por projetos que envolvam, principalmente, essas quatro tecnologias.
+- 💬 Pergunte-me sobre: Desenvolvimento Front-End e Tecnologia.
 - ⚡ Curioso sobre: tecnologia, ciência, política social.
+- 🎓 Discente na FIAP (Faculdade de informática e Administração Paulista) - 3º Semestre.
