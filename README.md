@@ -7,10 +7,11 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BernardoOficial&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
 </p>
-  
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoOficial&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/BernardoOficial/github-readme-stats&theme=dracula">
 </p>
+
+## Sobre
 
 Sou Bernardo Pereira, desenvolvedor Web e apaixonado por tecnologias como o Javascript. 
 
@@ -21,7 +22,10 @@ Sou Bernardo Pereira, desenvolvedor Web e apaixonado por tecnologias como o Java
 - ⚡ Curioso sobre: tecnologia, ciência, política social.
 - 🎓 Discente na FIAP (Faculdade de informática e Administração Paulista) - 3º Semestre.
 
-<p align="center">
+
+## Contato
+
+<p>
 <a href="https://www.linkedin.com/in/bernardo-pereira-oliveira/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-BernardoOficial-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-pereira-oliveira/"/></a>
-<a href="https://bernardo-portifolio.netlify.app/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Portfólio-563D7C?style=flat-square&logoColor=white&link=https://bernardo-portifolio.netlify.app/"/></a>
+<a href="https://bernardo-portifolio.netlify.app/" target="blank"><img alt="Portfólio Badge" src="https://img.shields.io/badge/-Portfólio-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://bernardo-portifolio.netlify.app/"/></a>
 </p>
