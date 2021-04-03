@@ -13,11 +13,11 @@
 
 ## Sobre
 
-Sou Bernardo Pereira, desenvolvedor Web e apaixonado por tecnologias como o Javascript. 
+Sou Bernardo Pereira, desenvolvedor Front-End Web e apaixonado por tecnologias como o Javascript.
 
-- 🔭 Atualmente, estou trabalhando em projeto com HTML, CSS, Javascript e React.
-- 🌱 Atualmente, estou aprendendo Javascript simultaneamente com React.
-- 👯 Estou procurando por projetos que envolvam, principalmente, essas quatro tecnologias.
+- 🔭 Atualmente, estou trabalhando em projeto com HTML, CSS, SCSS, Bootstrap, Javascript, React(styled components, context api, hooks) e Typescript.
+- 🌱 Atualmente, estou aprendendo Javascript, React e Typescript.
+- 👯 Estou procurando por projetos que envolvam, principalmente, essas 7 tecnologias.
 - 💬 Pergunte-me sobre: Desenvolvimento Front-End e Tecnologia.
 - ⚡ Curioso sobre: tecnologia, ciência, política social.
 - 🎓 Discente na FIAP (Faculdade de informática e Administração Paulista) - 3º Semestre.
@@ -37,6 +37,7 @@ Sou Bernardo Pereira, desenvolvedor Web e apaixonado por tecnologias como o Java
 	<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 	<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+	<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 	<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 	<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
