@@ -42,5 +42,5 @@ Sou Bernardo Pereira, desenvolvedor Front-End Web e apaixonado por tecnologias c
 	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 	<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 	<img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" />
-	<img align="left" alt="Bootstrap" width="26px" src="https://cdn.shopify.com/s/files/1/0065/1277/1170/files/shopify-liquid-1.jpg?v=1634345213" />
+	<img align="left" alt="Bootstrap" width="26px" src="https://cdn.shopify.com/s/files/1/0065/1277/1170/files/shopify-liquid.png?v=1634345740" />
 </div>
